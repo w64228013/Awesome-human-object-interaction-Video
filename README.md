@@ -17,8 +17,13 @@ Collect some HOI papers based on Video.
   - ActGenome [[paper](http://openaccess.thecvf.com/content_CVPR_2020/html/Ji_Action_Genome_Actions_As_Compositions_of_Spatio-Temporal_Scene_Graphs_CVPR_2020_paper.html)] [[download(GoogleDrive)](https://drive.google.com/drive/folders/150LB6We_cqHfqf0RrYcI4OIZ-LoM0yNx)] [[download(official link)](https://www.actiongenome.org/)]
 
 ***
-### context-aware emotion dataset
+### context-aware emotion dataset (Video)
   - GroupWalk [[paper](http://openaccess.thecvf.com/content_CVPR_2020/html/Mittal_EmotiCon_Context-Aware_Multimodal_Emotion_Recognition_Using_Freges_Principle_CVPR_2020_paper.html)] [[download(official link)](https://gamma.umd.edu/researchdirections/affectivecomputing/emoticon/)]
+  - AFEW [Face] 15 1809 clips, 7 emotion categories, from movie
+  - CAER 30 13201 clips, 7 categories, from TV Show
+  - IEMOCAP 9 12 hrs, 4 categories, from TV Show
+  - GroupWalk 45 clips, 4 categories, from real scenario
+  - 
 
 
 
